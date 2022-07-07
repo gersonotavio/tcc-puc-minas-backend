@@ -1,0 +1,28 @@
+CREATE TABLE  "AD_LOG_ENVIO_EMAIL" 
+   ("ID_LOG" NUMBER NOT NULL ENABLE, 
+	"COLABORADOR_ID" NUMBER, 
+	"DS_EMAIL" VARCHAR2(100), 
+	"TP_AVALIACAO" NUMBER, 
+	"DT_GERACAO_AVALIACAO" DATE, 
+	"DT_ENVIO_EMAIL" DATE, 
+	"DS_TP_EMAIL" VARCHAR2(200)
+   )
+/
+
+
+CREATE OR REPLACE EDITIONABLE TRIGGER  "BI_AD_LOG_ENVIO_EMAIL" 
+  before insert on "AD_LOG_ENVIO_EMAIL"
+  for each row
+begin
+  if :NEW."ID_LOG" is null then
+    select MAX(nvl(:NEW."ID_LOG",0)) + 1
+      into :NEW."ID_LOG"
+      from dual;
+  end if;
+end;
+
+/
+ALTER TRIGGER  "BI_AD_LOG_ENVIO_EMAIL" ENABLE
+/
+
+

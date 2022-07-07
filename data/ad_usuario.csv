@@ -1,0 +1,79 @@
+ID,NM_USUARIO,ID_PERFIL,ID_ADMINISTRADOR,AVATAR,ID_ATIVO,ID_CARGO,DT_ADMISSAO,CARGO,NM_LOTACAO,DS_LOTACAO,ID_FUNCAO,NOME_USUARIO
+258,PROFESSOR,1,0,[unsupported data type],1,2,03/01/22,,1,,61,SAMUEL MARTINS
+148,U148,1,0,[unsupported data type],1,2,16/05/16,Analista Júnior,DVGT,Divisão de Gestão de Tecnologia da Informação,148,CECÍLIA DAIANE NINA PEIXOTO
+172,U172,1,0,[unsupported data type],1,1,20/04/17,Assistente Administrativo Assistente,DVGA,Divisão de Gestão Administrativo-Financeira,172,SAMUEL RYAN RIBEIRO
+61,U61,1,0,[unsupported data type],1,2,06/05/09,Analista Júnior,DVGR,Divisão de Gestão de Relacionamento com o Participante,61,LÍVIA ALLANA ARAGÃO
+237,U237,1,0,[unsupported data type],1,2,11/09/19,Analista Júnior,DVGP,Divisão de Gestão Previdenciária,237,RAYSSA  ROSÂNGELA CAVALCANTI
+239,U239,1,0,[unsupported data type],1,1,16/10/19,Assistente Administrativo Assistente,DVGR,Divisão de Gestão de Relacionamento com o Participante,239,ALICE LAVÍNIA CARLA RAMOS
+158,U158,1,0,[unsupported data type],1,1,07/11/16,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,158,AGATHA AYLA PEREIRA
+249,U249,1,0,[unsupported data type],1,1,09/11/20,Assistente Administrativo Assistente,DVGR,Divisão de Gestão de Relacionamento com o Participante,249,EDUARDO BENÍCIO DA MOTA
+107,U107,4,0,[unsupported data type],1,10,09/11/89,Diretor Adm Financeiro,DEX,Diretoria Executiva,107,GUSTAVO FILIPE VITOR ASSIS
+147,U147,4,0,[unsupported data type],1,8,15/01/07,Presidente,DEX,Diretoria Executiva,147,SÔNIA ALLANA NOGUEIRA
+175,U175,1,0,[unsupported data type],1,1,22/06/17,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,175,MARLENE BIANCA DA ROSA
+3,U3,1,0,[unsupported data type],1,2,04/04/88,Analista Executivo,DVGT,Divisão de Gestão de Tecnologia da Informação,3,ALEXANDRE  HENRY DA CUNHA
+30,U30,1,0,[unsupported data type],1,2,01/10/92,Analista Pleno,DVGR,Divisão de Gestão de Relacionamento com o Participante,30,VITOR NELSON DA CONCEIÇÃO
+216,gerson,1,0,[unsupported data type],1,2,07/01/19,Analista Júnior,1,Divisão de Gestão de Tecnologia da Informação,61,GERSON OTAVIO DE SOUZA
+252,U252,1,0,[unsupported data type],1,2,15/02/21,Analista Júnior,DVGS,Divisão de Gestão Assistencial,252,HELENA ISABELLA CARDOSO
+253,U253,1,0,[unsupported data type],1,1,15/02/21,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,253,LAÍS TÂNIA ALVES
+137,U137,2,0,[unsupported data type],1,2,02/02/15,Analista Pleno,DVGP,Divisão de Gestão Previdenciária,90,FERNANDA  HELENA GALVÃO
+139,U139,1,0,[unsupported data type],1,2,15/06/15,Analista Júnior,DVGS,Divisão de Gestão Assistencial,139,LUÍS SAMUEL PIRES
+169,U169,1,0,[unsupported data type],1,3,01/03/17,Advogado (a) Pleno,DVCI,Divisão de Controles Internos e Compliance,169,ISABELLA MILENA  FREITAS
+185,U185,1,0,[unsupported data type],1,2,04/10/17,Analista Pleno,Auditoria,Auditoria Interna,185,FELIPE DAVI BRITO
+235,U235,1,0,[unsupported data type],1,2,12/08/19,Analista Júnior,DVGE,Divisão de Gestão Estratégica,235,SANDRA LIZ RIBEIRO
+250,U250,1,0,[unsupported data type],1,1,11/11/20,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,250,HELOISE MARCELA LAVÍNIA SOUZA
+251,U251,1,0,[unsupported data type],1,1,11/11/20,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,251,HELOISA JULIANA VIEIRA
+257,U257,1,0,[unsupported data type],1,1,01/03/21,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,257,JULIA ISIS LOPES
+5,GESTOR,2,1,[unsupported data type],1,2,03/07/06,Analista Executivo,DVGT,Divisão de Gestão de Tecnologia da Informação,5,MARCOS   HENRIQUE BERNARDES
+16,U16,1,0,[unsupported data type],1,2,13/03/90,Analista Pleno,DVGI,Divisão de Gestão de Investimentos,16,DIOGO CAUÊ PIETRO DUARTE
+18,U18,1,0,[unsupported data type],1,2,29/08/90,Analista Executivo,DVGA,Divisão de Gestão Administrativo-Financeira,18,SEVERINO ANDRÉ PINTO
+25,U25,1,0,[unsupported data type],1,2,14/05/86,Analista Pleno,Ouvidoria,Ouvidoria,25,MIGUEL HENRIQUE NUNES
+29,U29,1,0,[unsupported data type],1,2,07/12/88,Analista Pleno,DVGP,Divisão de Gestão Previdenciária,29,MARCOS  BENÍCIO CAVALCANTI
+50,U50,2,0,[unsupported data type],1,2,03/03/08,Analista Sênior,DVGR,Divisão de Gestão de Relacionamento com o Participante,50,GERALDO KAUÊ RIBEIRO
+51,U51,2,0,[unsupported data type],1,2,03/03/08,Analista Pleno,DVGS,Divisão de Gestão Assistencial,51,SARAH LOUISE CARDOSO
+55,U55,1,0,[unsupported data type],1,2,03/03/08,Analista Júnior,DVGT,Divisão de Gestão de Tecnologia da Informação,55,ISAAC YAGO EDUARDO DA COSTA
+60,U60,1,0,[unsupported data type],1,2,03/08/09,Analista Pleno,DVGT,Divisão de Gestão de Tecnologia da Informação,60,MATEUS   DIOGO BARROS
+74,U74,1,0,[unsupported data type],1,2,01/07/13,Analista Júnior,DVGE,Divisão de Gestão Estratégica,74,TERESINHA EMILY DA COSTA
+65,U65,2,0,[unsupported data type],1,2,01/02/11,Analista Pleno,DVGA,Divisão de Gestão Administrativo-Financeira,65,OLIVER  SEVERINO ASSUNÇÃO
+77,U77,1,0,[unsupported data type],1,2,01/03/12,Analista Pleno,DVGI,Divisão de Gestão de Investimentos,77,PAULO THOMAS  FERREIRA
+83,U83,2,0,[unsupported data type],1,2,14/05/12,Analista Sênior,DVGI,Divisão de Gestão de Investimentos,83,BERNARDO FELIPE ASSUNÇÃO
+104,U104,1,1,[unsupported data type],1,2,01/08/14,Analista Pleno,DVGE,Divisão de Gestão Estratégica,104,PAULO ADRIANO
+86,U86,1,0,[unsupported data type],1,2,01/06/14,Analista Júnior,DVGC,Divisão de Gestão Contábil,86,JOSEFA BRENDA ALMADA
+156,U156,1,0,[unsupported data type],1,1,10/10/16,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,156,MÁRCIA  VITÓRIA FERREIRA
+163,U163,1,0,[unsupported data type],1,2,05/12/16,Analista Júnior,DVGC,Divisão de Gestão Contábil,163,AYLA TERESINHA ARAGÃO
+188,U188,1,0,[unsupported data type],1,2,11/12/17,Analista Júnior,DVGP,Divisão de Gestão Previdenciária,188,YASMIN ISABELLE DA COSTA
+202,U202,1,0,[unsupported data type],1,1,23/07/18,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,202,SARA JENNIFER MAITÊ BARBOSA
+225,U225,1,0,[unsupported data type],1,1,15/05/19,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,225,THEO ARTHUR THALES FERREIRA
+233,U233,1,0,[unsupported data type],1,1,05/08/19,Assistente Administrativo Assistente,DVGP,Divisão de Gestão Previdenciária,233,MANOEL ANDRÉ PEIXOTO
+244,U244,1,0,[unsupported data type],1,2,05/03/20,Analista Júnior,DVCI,Divisão de Controles Internos e Compliance,244,HADASSA LETÍCIA  CARVALHO
+254,U254,1,0,[unsupported data type],0,1,15/02/21,Assistente Administrativo Assistente,DVGP,Divisão de Gestão Previdenciária,254,ADRIANA  ROSÂNGELA DE PAULA
+63,U63,2,1,[unsupported data type],0,2,01/02/11,Analista Pleno,DVGE,Divisão de Gestão Estratégica,63,SUELI TATIANE RIBEIRO
+76,U76,2,0,[unsupported data type],1,5,02/04/12,Contador (a) Pleno,DVGC,Divisão de Gestão Contábil,76,BENEDITA MARINA MAYA DA CRUZ
+88,U88,1,0,[unsupported data type],1,1,15/07/13,Assistente Administrativo Assistente,DVGR,Divisão de Gestão de Relacionamento com o Participante,88,JULIA ANA MARTINS
+96,ADM,3,1,[unsupported data type],1,2,04/01/13,Analista Júnior,2,Divisão de Gestão Estratégica,96,TÂNIA MALU CAMPOS
+97,U97,1,0,[unsupported data type],1,2,01/06/14,Analista Júnior,DVGA,Divisão de Gestão Administrativo-Financeira,97,JOSÉ YURI LUCAS LIMA
+157,U157,1,0,[unsupported data type],1,2,03/11/16,Analista Júnior,DVGT,Divisão de Gestão de Tecnologia da Informação,157,CALEBE  KAIQUE MOREIRA
+162,U162,1,0,[unsupported data type],1,2,05/12/16,Analista Júnior,DVGA,Divisão de Gestão Administrativo-Financeira,162,TATIANE AGATHA FERNANDES
+165,U165,1,0,[unsupported data type],1,2,12/12/16,Analista Júnior,DVCI,Divisão de Controles Internos e Compliance,165,NOAH LUÍS FOGAÇA
+177,U177,1,0,[unsupported data type],1,1,03/07/17,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,177,LARA AYLA PEREIRA
+198,U198,1,0,[unsupported data type],1,1,11/06/18,Assistente Administrativo Assistente,DVGR,Divisão de Gestão de Relacionamento com o Participante,198,GUSTAVO RAUL DA ROSA
+209,U209,1,0,[unsupported data type],1,1,08/10/18,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,209,CALEBE ELIAS SALES
+223,U223,1,0,[unsupported data type],1,1,15/05/19,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,223,FLÁVIA JOANA OLIVEIRA
+224,U224,1,0,[unsupported data type],1,1,15/05/19,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,224,CECÍLIA EMANUELLY LUIZA PORTO
+226,U226,1,0,[unsupported data type],1,1,16/05/19,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,226,REBECA LOUISE ASSUNÇÃO
+231,U231,1,0,[unsupported data type],1,1,15/07/19,Assistente Administrativo Assistente,DVGA,Divisão de Gestão Administrativo-Financeira,231,LEANDRO EDSON NUNES
+234,U234,1,0,[unsupported data type],1,1,05/08/19,Assistente Administrativo Assistente,DVGR,Divisão de Gestão de Relacionamento com o Participante,234,JAQUELINE  JENNIFER MONTEIRO
+236,U236,1,0,[unsupported data type],1,1,02/09/19,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,236,MARCELA FABIANA DUARTE
+246,U246,1,0,[unsupported data type],1,7,22/07/74,Menor Aprendiz Estágio/Menor Aprendiz,DVGA,Divisão de Gestão Administrativo-Financeira,246,FRANCISCA RENATA OLIVEIRA
+248,U248,1,0,[unsupported data type],1,2,09/11/20,Analista Júnior,DVCI,Divisão de Controles Internos e Compliance,248,DANIEL FELIPE VICTOR DA PAZ
+255,U255,1,0,[unsupported data type],1,7,11/02/21,Menor Aprendiz Estágio/Menor Aprendiz,DVGR,Divisão de Gestão de Relacionamento com o Participante,255,OSVALDO  FERNANDO GONÇALVES
+173,U173,1,0,[unsupported data type],1,1,01/06/17,Assistente Administrativo Assistente,DVGI,Divisão de Gestão de Investimentos,173,LIZ MARIANE ESTHER DA MATA
+141,U141,2,0,[unsupported data type],1,2,03/11/14,Analista Executivo,DVCI,Divisão de Controles Internos e Compliance,141,HUGO LUCAS DA ROCHA
+222,U222,1,0,[unsupported data type],1,2,23/04/19,Analista Júnior,DVGI,Divisão de Gestão de Investimentos,222,MARCOS VINICIUS CALEB DA CRUZ
+187,U187,1,0,[unsupported data type],1,1,04/12/17,Assistente Administrativo Assistente,DVGR,Divisão de Gestão de Relacionamento com o Participante,187,LARA LIZ DA MATA
+20,U20,1,0,[unsupported data type],1,2,05/10/89,Analista Pleno,DVGA,Divisão de Gestão Administrativo-Financeira,20,ENRICO DANILO GERALDO SOUZA
+59,U59,1,0,[unsupported data type],1,2,03/08/09,Analista Pleno,DVGT,Divisão de Gestão de Tecnologia da Informação,59,RAUL ALEXANDRE  NASCIMENTO
+90,U90,1,0,[unsupported data type],1,2,15/07/13,Analista Júnior,DVGA,Divisão de Gestão Administrativo-Financeira,90,FÁBIO SAMUEL ROCHA
+218,U218,4,0,[unsupported data type],1,9,09/01/19,Dir. Seguridade,DEX,Diretoria Executiva,218,OSVALDO RENATO EDSON VIEIRA
+256,U256,1,0,[unsupported data type],1,2,22/02/21,Analista Júnior,DVCI,Divisão de Controles Internos e Compliance,256,CAIO HEITOR MÁRIO DA SILVA
+144,U144,1,0,[unsupported data type],1,1,01/12/15,Assistente Administrativo Assistente,DVGS,Divisão de Gestão Assistencial,144,GIOVANA ELISA SARA VIANA
+64,U64,1,0,[unsupported data type],1,2,01/02/11,Analista Júnior,DVGS,Divisão de Gestão Assistencial,64,SOPHIE ADRIANA NASCIMENTO

@@ -1,0 +1,143 @@
+COLABORADOR_ID,PAR_MATR,NM_USUARIO,NOME,DS_EMAIL,ID_GERENTE,DT_ADMISSAO,LOTACAO_ID,NM_LOTACAO,DS_LOTACAO,ID_CARGO,CARGO,ID_ATIVO
+26,120,U121,Cláudia Laís Silva,claudialaissilva_@raizen.com,0,01/10/92,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,0
+27,77,U122,Melissa Luzia Liz Fernandes,melissaluzializfernandes_@asproplastic.com.br,0,04/04/88,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,,,0
+29,88,U041,Marcos  Benício Cavalcanti,marcosviniciusbeniciocavalcanti_@uniara.com.br,0,07/12/88,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Pleno,1
+30,118,U042,Vitor Nelson da Conceição,vvitornelsoncalebdaconceicao@aliancacadeiras.com.br,0,01/10/92,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,2,Analista Pleno,1
+32,95,U123,Ayla Carla Lopes,aylacarlalopesaylacarlalopes@michaelpage.com.br,0,10/10/89,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Pleno,0
+35,57,U124,Valentina Sônia Vieira,vvalentinamirellasoniavieira@zignani.com.br,0,03/10/83,3,DVGS,Divisão de Gestão Assistencial,2,Analista Executivo,0
+36,135,U125,Carla Josefa Costa,ccarlajosefacosta@vemarbrasil.com.br,0,11/07/06,1,DVGT,Divisão de Gestão de Tecnologia da Informação,,,0
+38,108,U044,Martin Luís Julio Souza,martinluisjuliosouzamartinluisjuliosouza@publiout.com.br,0,13/02/91,4,DVGA,Divisão de Gestão Administrativo-Financeira,,,0
+39,50,U045,Felipe Augusto André Farias,ffelipeaugustoandrefarias@viasegbrasil.com.br,0,18/01/82,4,DVGA,Divisão de Gestão Administrativo-Financeira,,,0
+42,71,U126,Adriana Isis Carolina Barbosa,adrianaisiscarolinabarbosaadrianaisiscarolinabarbosa@davimil.com.br,0,23/05/86,5,DVCI,Divisão de Controles Internos e Compliance,,,0
+48,137,U128,Emily Rayssa Caldeira,emilyrayssacaldeiraemilyrayssacaldeira@odebrecht.com,1,09/04/07,2,DVGE,Divisão de Gestão Estratégica,,,0
+50,142,U046,Geraldo Kauê Ribeiro,ggeraldokaueribeiro@onvale.com,1,03/03/08,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,2,Analista Sênior,1
+51,145,U129,Sarah Louise Cardoso,sarahlouisecardoso__sarahlouisecardoso@vetech.vet.br,1,03/03/08,3,DVGS,Divisão de Gestão Assistencial,2,Analista Pleno,1
+52,146,U130,Catarina Analu Rita Ferreira,catarinaanaluritaferreiracatarinaanaluritaferreira@hmhabitacoesmodernas.com.br,0,03/03/08,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,2,Analista Júnior,0
+55,147,U047,Isaac Yago Eduardo da Costa,isaacyagoeduardodacostaisaacyagoeduardodacosta@oi.com.br,0,03/03/08,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Júnior,1
+56,143,U131,Lívia Carolina Melo,liviacarolinamelo_@br.atlascopco.com,0,03/03/08,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,2,Analista Júnior,0
+59,150,U048,Raul Alexandre  Nascimento,raulalexandreluannascimento-72@marketingvale.com.br,0,03/08/09,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Pleno,1
+60,149,U049,Mateus   Diogo Barros,mateusmarcosviniciusdiogobarros__mateusmarcosviniciusdiogobarros@vick1.com.br,0,03/08/09,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Pleno,0
+61,148,U139,Lívia Allana Aragão,liviaallanaaragao-83@toyota.com.br,0,06/05/09,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,2,Analista Júnior,1
+63,152,U140,Sueli Tatiane Ribeiro,ssuelitatianeribeiro@salvadorlogistica.com.br,1,01/02/11,2,DVGE,Divisão de Gestão Estratégica,2,Analista Pleno,0
+64,154,U135,Sophie Adriana Nascimento,sophieadriananascimentosophieadriananascimento@grupoitamaraty.com.br,0,01/02/11,3,DVGS,Divisão de Gestão Assistencial,2,Analista Júnior,1
+65,153,U051,Oliver  Severino Assunção,oliverviniciusseverinoassuncao_@marramoncks.com.br,1,01/02/11,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Pleno,1
+68,155,U054,Augusto Fernando Martins,augustofernandomartinsaugustofernandomartins@zizafernandes.com,0,14/02/11,3,DVGS,Divisão de Gestão Assistencial,2,Analista Júnior,0
+71,165,U050,Rafael  Anderson da Rocha,rrafaeljoseandersondarocha@stricker.eu.com,0,01/06/12,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Júnior,0
+74,169,U132,Teresinha Emily da Costa,tteresinhaemilydacosta@cbb.com.br,0,01/07/13,2,DVGE,Divisão de Gestão Estratégica,2,Analista Júnior,1
+76,162,U141,Benedita Marina Maya da Cruz,bbeneditamarinamayadacruz@econe.com.br,1,02/04/12,6,DVGC,Divisão de Gestão Contábil,5,Contador (a) Pleno,1
+77,160,U052,Paulo Thomas  Ferreira,ppaulothomasrobertoferreira@icloub.com,0,01/03/12,7,DVGI,Divisão de Gestão de Investimentos,2,Analista Pleno,1
+79,174,U133,Marlene Lara Heloisa Santos,marlenelaraheloisasantos-96@gat.com.br,0,01/02/14,4,DVGA,Divisão de Gestão Administrativo-Financeira,1,Assistente Administrativo Assistente,0
+80,157,U056,Caio Tiago da Rosa,caiotiagodarosa_@click21.com.br,1,02/01/12,9,DVGP,Divisão de Gestão Previdenciária,4,Atuário (a) Executivo,0
+82,159,U137,Hadassa Lavínia Moura,hadassalaviniamoura__hadassalaviniamoura@arganet.com.br,0,22/02/12,6,DVGC,Divisão de Gestão Contábil,,,0
+83,163,U053,Bernardo Felipe Assunção,bbernardofelipeassuncao@humanfit.com.br,1,14/05/12,7,DVGI,Divisão de Gestão de Investimentos,2,Analista Sênior,1
+84,164,U134,Isadora Tânia Lima,iisadoratanialima@bravura.com.br,0,01/06/12,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,0
+85,166,U138,Vera Mariana Larissa Cardoso,veramarianalarissacardoso-80@orteca.com.br,0,13/06/12,9,DVGP,Divisão de Gestão Previdenciária,1,Assistente Administrativo Assistente,0
+86,177,U099,Josefa Brenda Almada,josefabrendaalmadajosefabrendaalmada@madhause.com.br,0,01/06/14,6,DVGC,Divisão de Gestão Contábil,2,Analista Júnior,1
+88,170,U072,Julia Ana Martins,juliaanamartins_@publiout.com.br,0,15/07/13,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,1
+89,171,U010,Tomás Marcos da Mata,ttomasmarcosdamata@unimedrio.com.br,0,15/07/13,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Júnior,0
+90,172,U011,Fábio Samuel Rocha,fabiosamuelrocha-93@videoaction.com.br,0,15/07/13,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Júnior,1
+91,167,U003,Benedito Guilherme  Costa,beneditoguilhermenicolascosta-79@inforgel.com,0,01/08/12,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Pleno,0
+92,173,U082,Fabiana Melissa da Cunha,fabianasimonemelissadacunha__fabianasimonemelissadacunha@nextel.com.br,0,15/07/13,4,DVGA,Divisão de Gestão Administrativo-Financeira,1,Assistente Administrativo Assistente,0
+93,175,U100,Isadora Lara Ester Alves,isadoralaraesteralvesisadoralaraesteralves@gmx.com.br,0,01/02/14,3,DVGS,Divisão de Gestão Assistencial,,,0
+96,168,ADM,Tânia Malu Campos,taniamalucampostaniamalucampos@outloock.com,0,04/01/13,2,DVGE,Divisão de Gestão Estratégica,2,Analista Júnior,1
+97,178,U020,José Yuri Lucas Lima,joseyurilucaslima__joseyurilucaslima@hoatmail.com,0,01/06/14,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Júnior,1
+104,181,U104,Paulo Adriano,gerotavio@gmail.com,0,01/08/14,2,DVGE,Divisão de Gestão Estratégica,2,Analista Pleno,1
+105,182,U060,Ayla Raquel Farias,aaylaraquelfarias@flexvale.com.br,0,01/10/14,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Júnior,0
+106,10329,U021,Vicente  Lorenzo dos Santos,vicenteandrelorenzodossantos-83@avoeazul.com.br,1,17/07/78,11,DEX,Diretoria Executiva,,,0
+107,12330,U022,Gustavo Filipe Vitor Assis,ggustavofilipevitorassis@santander.com.br,0,09/11/89,11,DEX,Diretoria Executiva,10,Diretor Adm Financeiro,1
+108,6067,U055,Jorge Mário Rocha,jorgemariorocha-75@superigi.com.br,1,01/12/15,11,DEX,Diretoria Executiva,,,0
+128,1012,U012,Kevin Marcos Vinicius Dias,kevinmarcosviniciusdias_@rj.net,0,06/01/14,7,DVGI,Divisão de Gestão de Investimentos,,,0
+129,1015,U013,Jorge Murilo Luan Oliveira,jjorgemuriloluanoliveira@argosmineracao.com.br,0,01/08/14,3,DVGS,Divisão de Gestão Assistencial,,,0
+130,1016,U061,Clarice Sônia Josefa Araújo,claricesoniajosefaaraujo__claricesoniajosefaaraujo@terra.com,0,15/09/14,9,DVGP,Divisão de Gestão Previdenciária,,,0
+137,184,U084,Fernanda  Helena Galvão,fernandaamandahelenagalvao-75@supercleanlav.com.br,1,02/02/15,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Pleno,1
+138,185,U102,Vanessa Eloá Caldeira,vanessaeloacaldeira__vanessaeloacaldeira@mushsanches.com,0,01/06/15,6,DVGC,Divisão de Gestão Contábil,,,0
+139,186,U001,Luís Samuel Pires,luissamuelpiresluissamuelpires@terapeutaholistica.com.br,0,15/06/15,3,DVGS,Divisão de Gestão Assistencial,2,Analista Júnior,1
+140,179,U101,Heloisa Giovanna da Silva,heloisagiovannadasilva_@eccotrans.com.br,0,08/07/14,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,0
+141,183,U004,Hugo Lucas da Rocha,hugolucasdarochahugolucasdarocha@achievecidadenova.com.br,1,03/11/14,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Executivo,1
+142,187,U023,Cauã Lucca Silveira,caualuccasilveiracaualuccasilveira@cotamtambores.com.br,0,05/10/15,1,DVGT,Divisão de Gestão de Tecnologia da Informação,,,0
+143,190,U075,Heloisa Giovana da Paz,heloisagiovanaclaudiadapaz_@lnaa.com.br,0,04/01/16,3,DVGS,Divisão de Gestão Assistencial,,,0
+144,189,U136,Giovana Elisa Sara Viana,giovanaelisasaraviana-91@systrix.com.br,0,01/12/15,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+145,188,U074,Débora Lívia  da Cunha,deboralivialucianadacunha_@br.nestle.com,0,18/11/15,2,DVGE,Divisão de Gestão Estratégica,2,Analista Júnior,0
+147,16004,U094,Sônia Allana Nogueira,soniaallananogueira__soniaallananogueira@elimco.com,0,15/01/07,11,DEX,Diretoria Executiva,8,Presidente,1
+148,191,U085,Cecília Daiane Nina Peixoto,ceciliadaianeninapeixoto__ceciliadaianeninapeixoto@wredenborg.se,0,16/05/16,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Júnior,0
+153,192,U057,Priscila Isabel Rezende,priscilaisabelrezendepriscilaisabelrezende@unicohost.com.br,0,20/06/16,6,DVGC,Divisão de Gestão Contábil,,,0
+156,193,U103,Márcia  Vitória Ferreira,marciafranciscavitoriaferreira_@maptec.com.br,0,10/10/16,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+157,194,U024,Calebe  Kaique Moreira,ccalebemanuelkaiquemoreira@andrediaz.com,0,03/11/16,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Júnior,1
+158,195,U086,Agatha Ayla Pereira,agathaaylapereira_@recantoalmeida.com.br,0,07/11/16,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+160,1019,U014,Márcio Cauê  Vinicius Mendes,marciocauemarcosviniciusmendes_@raizen.com,0,09/11/16,4,DVGA,Divisão de Gestão Administrativo-Financeira,,,0
+161,1018,U076,Sophia Sarah da Paz,sophiasarahdapaz-84@bzness.com.br,0,09/11/16,2,DVGE,Divisão de Gestão Estratégica,,,0
+162,196,U105,Tatiane Agatha Fernandes,tatianeagathafernandes_@tkk.com.br,0,05/12/16,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Júnior,1
+163,197,U077,Ayla Teresinha Aragão,aylateresinhaaragao_@myself.com,0,05/12/16,6,DVGC,Divisão de Gestão Contábil,2,Analista Júnior,1
+164,1020,U073,Juliana Rafaela da Costa,julianarafaeladacostajulianarafaeladacosta@wnetrj.com.br,0,05/12/16,9,DVGP,Divisão de Gestão Previdenciária,,,0
+165,198,U027,Noah Luís Fogaça,noahluisfogaca-75@eyejoy.com.br,0,12/12/16,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Júnior,1
+166,199,U015,Rafael Danilo Costa,rafaeldanilocosta_@sp.gov.br,0,16/01/17,4,DVGA,Divisão de Gestão Administrativo-Financeira,,,0
+167,200,U062,Josefa Louise Pires,jjosefalouisepires@utbr.com.br,0,30/01/17,2,DVGE,Divisão de Gestão Estratégica,,,0
+168,201,U087,Gabrielly Pietra Gonçalves,gabriellypietragoncalves__gabriellypietragoncalves@amplisat.com.br,0,13/02/17,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Júnior,0
+169,202,U063,Isabella Milena  Freitas,iisabellamilenagiovanafreitas@piemme.com.br,0,01/03/17,5,DVCI,Divisão de Controles Internos e Compliance,3,Advogado (a) Pleno,1
+172,203,U002,Samuel Ryan Ribeiro,samuelryanribeiro-99@4now.com.br,0,20/04/17,4,DVGA,Divisão de Gestão Administrativo-Financeira,1,Assistente Administrativo Assistente,1
+173,204,U088,Liz Mariane Esther da Mata,llizmarianeestherdamata@ctlive.com.br,0,01/06/17,7,DVGI,Divisão de Gestão de Investimentos,1,Assistente Administrativo Assistente,1
+174,205,U064,Cecília Emily Nogueira,ceciliaemilynogueiraceciliaemilynogueira@prcondominios.com.br,0,05/06/17,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Júnior,0
+175,206,U058,Marlene Bianca da Rosa,marlenebiancadarosa-70@novotempo.com,0,22/06/17,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+176,208,U078,Aparecida Marcela Mendes,aparecidamarcelamendesaparecidamarcelamendes@efetivaseguros.com.br,0,03/07/17,2,DVGE,Divisão de Gestão Estratégica,1,Assistente Administrativo Assistente,0
+177,209,U079,Lara Ayla Pereira,laraaylapereira_@ortovip.com.br,0,03/07/17,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+178,207,U065,Carolina  Aparecida Ferreira,carolinaluanaaparecidaferreira-86@myself.com,0,22/06/17,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,0
+182,1022,U089,Hadassa Sophie Teixeira,hadassasophieteixeira-97@sinsesp.com.br,0,10/08/17,5,DVCI,Divisão de Controles Internos e Compliance,,,0
+183,210,U090,Cecília Sara Nunes,ceciliasaranunes-96@engemed.com,0,01/09/17,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,0
+184,1024,U106,Kamilly  Natália Rodrigues,kamillycarolinanataliarodrigues_@ggm.com.br,0,03/10/17,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,7,Menor Aprendiz,0
+185,211,U016,Felipe Davi Brito,ffelipedavibrito@ruizonline.com.br,0,04/10/17,14,Auditoria,Auditoria Interna,2,Analista Pleno,1
+2,113,U115,Maitê Regina Fogaça,maitereginafogacamaitereginafogaca@isometro.com.br,0,01/06/92,1,DVGT,Divisão de Gestão de Tecnologia da Informação,,,0
+3,76,U032,Alexandre  Henry da Cunha,alexandregustavohenrydacunha_@mcexecutiva.com.br,0,04/04/88,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Executivo,1
+5,134,GESTOR,Marcos   Henrique Bernardes,marcosviniciusalexandrehenriquebernardes_@parkhotel.com.br,1,03/07/06,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Executivo,1
+6,112,U116,Ester Emily Isabella Viana,eesteremilyisabellaviana@tanet.com.br,0,01/06/92,1,DVGT,Divisão de Gestão de Tecnologia da Informação,,,0
+7,130,U034,Tomás  Henrique Mendes,tomaspedrohenriquemendestomaspedrohenriquemendes@baptistas.com.br,0,05/06/95,1,DVGT,Divisão de Gestão de Tecnologia da Informação,,,0
+8,132,U117,Aparecida Tânia Lara Campos,aparecidatanialaracampos__aparecidatanialaracampos@2registrocivil.com.br,0,19/01/06,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Júnior,0
+9,54,U035,Edson Ryan Samuel da Mata,edsonryansamueldamata-92@thibe.com.br,0,02/05/83,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Pleno,0
+10,55,U118,Clara Josefa Fernandes,clarajosefasilvanafernandesclarajosefasilvanafernandes@padrejuliano.com,0,02/05/83,9,DVGP,Divisão de Gestão Previdenciária,,,0
+14,67,U119,Mariana Gabrielly Rita Gomes,marianagabriellyritagomesmarianagabriellyritagomes@mrarquitetura.com.br,0,14/05/86,4,DVGA,Divisão de Gestão Administrativo-Financeira,,,0
+16,99,U036,Diogo Cauê Pietro Duarte,diogocauepietroduartediogocauepietroduarte@jpmanager.com.br,0,13/03/90,7,DVGI,Divisão de Gestão de Investimentos,2,Analista Pleno,1
+18,105,U037,Severino André Pinto,severinoandrepintoseverinoandrepinto@sefaz.am.gov.br,0,29/08/90,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Executivo,1
+19,59,U120,Lívia Vanessa Corte Real,lliviavanessaallanacortereal@rizan.com.br,1,01/02/84,9,DVGP,Divisão de Gestão Previdenciária,,,0
+20,94,U038,Enrico Danilo Geraldo Souza,enricodanilogeraldosouza-77@comunikapublicidade.com.br,0,05/10/89,4,DVGA,Divisão de Gestão Administrativo-Financeira,2,Analista Pleno,1
+23,96,U039,Pedro Kauê Benjamin da Cruz,pedrokauebenjamindacruz_@signatreinamentos.com.br,0,10/10/89,3,DVGS,Divisão de Gestão Assistencial,,,0
+25,68,U040,Miguel Henrique Nunes,miguelhenriquenunes__miguelhenriquenunes@marithimaconstrutora.com.br,0,14/05/86,10,Ouvidoria,Ouvidoria,2,Analista Pleno,1
+186,212,U091,Tereza Silvana Catarina Sales,terezasilvanacatarinasales-89@comprehense.com.br,0,20/11/17,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,0
+187,213,U092,Lara Liz da Mata,laralizdamata_@bfgadvogados.com,0,04/12/17,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,1
+188,214,U107,Yasmin Isabelle da Costa,yasminisabelledacosta__yasminisabelledacosta@contabilidadevictoria.com.br,0,11/12/17,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Júnior,1
+189,215,U025,Caleb Fábio da Paz,calebfabiodapaz__calebfabiodapaz@virtualcriativa.com.br,0,15/01/18,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,0
+194,1025,U093,Aline Bruna Rodrigues,alinebrunarodrigues__alinebrunarodrigues@temavonfeccaosjc.com.br,0,26/02/18,4,DVGA,Divisão de Gestão Administrativo-Financeira,7,Menor Aprendiz,0
+198,216,U026,Gustavo Raul da Rosa,gustavorauldarosagustavorauldarosa@stilomovelaria.com.br,0,11/06/18,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,1
+202,217,U059,Sara Jennifer Maitê Barbosa,sarajennifermaitebarbosasarajennifermaitebarbosa@brasildakar.com.br,0,23/07/18,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+203,15,U043,Iago Thiago Mendes,iagothiagomendes-92@tpltransportes.com.br,0,20/04/61,11,DEX,Diretoria Executiva,,,0
+204,10410,U127,Natália Lavínia  Almada,natalialaviniaisabellaalmadanatalialaviniaisabellaalmada@macroengenharia.com,0,03/08/79,11,DEX,Diretoria Executiva,,,0
+209,218,U005,Calebe Elias Sales,ccalebeeliassales@utbr.com.br,0,08/10/18,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+216,219,gerson,GERSON OTAVIO DE SOUZA,gerson@celos.com.br,0,07/01/19,1,DVGT,Divisão de Gestão de Tecnologia da Informação,2,Analista Júnior,1
+217,220,U006,Davi João da Cunha,davijoaodacunha__davijoaodacunha@asconinternet.com.br,0,14/01/19,7,DVGI,Divisão de Gestão de Investimentos,2,Analista Júnior,0
+218,6068,U007,Osvaldo Renato Edson Vieira,oosvaldorenatoedsonvieira@clinicasilhouette.com.br,0,09/01/19,11,DEX,Diretoria Executiva,9,Dir. Seguridade,1
+219,1026,U096,Antônia Vitória Freitas,antoniavitoriafreitasantoniavitoriafreitas@cteep.com.br,0,01/02/19,5,DVCI,Divisão de Controles Internos e Compliance,6,Estagiário (a),0
+222,221,U017,Marcos Vinicius Caleb da Cruz,marcosviniciuscalebdacruzmarcosviniciuscalebdacruz@lanchesdahora.com.br,0,23/04/19,7,DVGI,Divisão de Gestão de Investimentos,2,Analista Júnior,1
+223,222,U108,Flávia Joana Oliveira,flaviajoanafernandaoliveiraflaviajoanafernandaoliveira@corpus.com.br,0,15/05/19,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+224,223,U109,Cecília Emanuelly Luiza Porto,ceciliaemanuellyluizaporto-90@geniustyres.com.br,0,15/05/19,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+225,224,U028,Theo Arthur Thales Ferreira,theoarthurthalesferreira_@pinheiromanaus.com,0,15/05/19,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+226,225,U110,Rebeca Louise Assunção,rrebecalouiseassuncao@esctech.com.br,0,16/05/19,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+231,226,U029,Leandro Edson Nunes,leandroedsonnunes__leandroedsonnunes@r7.com.br,0,15/07/19,4,DVGA,Divisão de Gestão Administrativo-Financeira,1,Assistente Administrativo Assistente,1
+233,227,U030,Manoel André Peixoto,manoelandrepeixoto-72@riquefroes.com,0,05/08/19,9,DVGP,Divisão de Gestão Previdenciária,1,Assistente Administrativo Assistente,1
+234,228,U111,Jaqueline  Jennifer Monteiro,jaquelinebeneditajennifermonteiro-86@mailnull.com,0,05/08/19,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,1
+235,229,U112,Sandra Liz Ribeiro,sandralizribeiro-98@pibnet.com.br,0,12/08/19,2,DVGE,Divisão de Gestão Estratégica,2,Analista Júnior,1
+236,230,U066,Marcela Fabiana Duarte,marcelafabianaduarte-97@lynce.com.br,0,02/09/19,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+237,231,U080,Rayssa  Rosângela Cavalcanti,rrayssafranciscarosangelacavalcanti@aclnet.com.br,0,11/09/19,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Júnior,1
+238,1029,U019,Fernando João Levi Santos,ffernandojoaolevisantos@royalplas.com.br,0,09/09/19,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,7,Menor Aprendiz Estágio/Menor Aprendiz,0
+239,232,U113,Alice Lavínia Carla Ramos,aalicelaviniacarlaramos@sadefem.com.br,0,16/10/19,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,1
+244,233,U095,Hadassa Letícia  Carvalho,hadassaleticiareginacarvalho__hadassaleticiareginacarvalho@corpus.com.br,0,05/03/20,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Júnior,1
+246,1030,U081,Francisca Renata Oliveira,franciscarenataoliveira__franciscarenataoliveira@tribunaimpressa.com.br,0,22/07/74,4,DVGA,Divisão de Gestão Administrativo-Financeira,7,Menor Aprendiz Estágio/Menor Aprendiz,0
+248,234,U008,Daniel Felipe Victor da Paz,danielfelipevictordapaz__danielfelipevictordapaz@cartovale.com.br,0,09/11/20,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Júnior,1
+249,235,U018,Eduardo Benício da Mota,eduardocesarbeniciodamota__eduardocesarbeniciodamota@ime.unicamp.br,0,09/11/20,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,1,Assistente Administrativo Assistente,1
+250,237,U068,Heloise Marcela Lavínia Souza,heloisemarcelalaviniasouza_@mirabeau.art.br,0,11/11/20,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+251,236,U067,Heloisa Juliana Vieira,heloisajulianavieira-92@fixacomunicacao.com.br,0,11/11/20,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+252,238,U070,Helena Isabella Cardoso,helenaleticiaisabellacardoso__helenaleticiaisabellacardoso@radicigroup.com,0,15/02/21,3,DVGS,Divisão de Gestão Assistencial,2,Analista Júnior,1
+253,239,U069,Laís Tânia Alves,laistaniaalves-86@origembr.com,0,15/02/21,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+254,240,U071,Adriana  Rosângela de Paula,adrianamarianerosangeladepaulaadrianamarianerosangeladepaula@sitran.com.br,0,15/02/21,9,DVGP,Divisão de Gestão Previdenciária,1,Assistente Administrativo Assistente,0
+255,1031,U031,Osvaldo  Fernando Gonçalves,oosvaldoandrefernandogoncalves@bbcreative.org,0,11/02/21,8,DVGR,Divisão de Gestão de Relacionamento com o Participante,7,Menor Aprendiz Estágio/Menor Aprendiz,1
+256,241,U009,Caio Heitor Mário da Silva,ccaioheitormariodasilva@teadit.com.br,0,22/02/21,5,DVCI,Divisão de Controles Internos e Compliance,2,Analista Júnior,1
+257,242,U097,Julia Isis Lopes,juliaisislopesjuliaisislopes@odebrecht.com,0,01/03/21,3,DVGS,Divisão de Gestão Assistencial,1,Assistente Administrativo Assistente,1
+258,243,U098,Alana  Valentina Oliveira,alanabarbaravalentinaoliveira-81@veloxmail.com.br,0,22/04/21,9,DVGP,Divisão de Gestão Previdenciária,2,Analista Júnior,0
+262,244,U114,Juliana Márcia Brito,julianamarciabrito-94@outlook.com,0,11/01/22,2,DVGE,Divisão de Gestão Estratégica,2,Analista Júnior,1

@@ -1,0 +1,13 @@
+ID_CONC_RESULT,ID_CONCEITO,VL_INDICE_INI,VL_INDICE_FIM,DS_CONC_RESULT,COR,COR_FONTE
+1,1,2.01,2.7,Excede às expectativas,#00f068,#000000
+2,1,1.34,2,Atende às expectativas,#1dd6f2,#000000
+3,1,.71,1.33,Abaixo das expectativas,#ffaf19,#000000
+4,1,0,.7,Insatisfatório,#fa372d,#000000
+5,2,1.51,2,Excede às expectativas,#00f068,#000000
+6,2,1.01,1.5,Atende às expectativas,#1dd6f2,#000000
+7,2,.51,1,Abaixo das expectativas,#ffaf19,#000000
+8,2,0,.5,Insatisfatório,#fa372d,#000000
+9,3,3.01,4,Excede às expectativas,#00f068,#000000
+10,3,2.01,3,Atende às expectativas,#1dd6f2,#000000
+11,3,1.01,2,Abaixo das expectativas,#ffaf19,#000000
+12,3,0,1,Insatisfatório,#fa372d,#000000
